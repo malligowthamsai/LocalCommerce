@@ -1,0 +1,26 @@
+body{
+    font-family: Arial;
+    text-align:center;
+    background:#f2f2f2;
+}
+
+input,select{
+    padding:8px;
+    margin:5px;
+}
+
+button{
+    padding:8px 15px;
+    background:green;
+    color:white;
+    border:none;
+    cursor:pointer;
+}
+
+.hidden{
+    display:none;
+}
+
+ul{
+    list-style:none;
+}
